@@ -1,0 +1,29 @@
+DEEP / NEUTRALS
+  Ink (body text)         #1C1C1A
+  Stone (mid-grey)        #A89E90
+  Sand (subtle borders)   #D9CEBB
+
+WARM NEUTRALS / BACKGROUND
+  Warm white              #FAF7F3   ← page background
+  Linen                   #F5EFE6
+  Cream                   #EDE5D8
+
+TEAL (the "italic accent")
+  Teal — primary          #1A7870   ← italic words like "thriving"
+  Teal mid                #2BA898
+  Teal light              #A8D8D2
+  Teal pale (background)  #E6F5F3
+
+BLUSH (warm accent)
+  Blush deep (CTA / nav)  #C97A60
+  Blush                   #E8BFB0
+  Blush rose              #F0D4CA
+  Blush soft (bg)         #FDF7F4
+
+GOLD (occasional accent)
+  Gold                    #C8903A
+  Gold pale (bg)          #FBF3E4
+
+BODY TYPE
+  Plus Jakarta Sans, light (300) for body text
+  Fraunces, light italic (300) for accent / pull quotes / headlines
